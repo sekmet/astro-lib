@@ -1,5 +1,3 @@
-[![Help Ukraine now!](https://raw.githubusercontent.com/alextim/help-ukraine-win-flag/master/stop-russian-agressian-help-ukraine-now-link.svg 'Help Ukraine now!')](https://war.ukraine.ua/support-ukraine/)
-
 # Astro Lib
 
 ![Release](https://github.com/alextim/astro-lib/actions/workflows/release.yaml/badge.svg) ![Test](https://github.com/alextim/astro-lib/actions/workflows/test.yaml/badge.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)

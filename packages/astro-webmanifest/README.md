@@ -1,5 +1,3 @@
-[![Help Ukraine now!](https://raw.githubusercontent.com/alextim/help-ukraine-win-flag/master/stop-russian-agressian-help-ukraine-now-link.svg 'Help Ukraine now!')](https://war.ukraine.ua/support-ukraine/)
-
 # astro-webmanifest
 
 This **[Astro integration](https://docs.astro.build/en/guides/integrations-guide/)** generates a _web application manifest_, favicon, icons and inserts appropriate html into `<head>` section for your Astro project during build.

@@ -1,5 +1,3 @@
-[![Help Ukraine now!](https://raw.githubusercontent.com/alextim/help-ukraine-win-flag/master/stop-russian-agressian-help-ukraine-now-link.svg 'Help Ukraine now!')](https://war.ukraine.ua/support-ukraine/)
-
 # astro-sitemap
 
 This **[Astro integration](https://docs.astro.build/en/guides/integrations-guide/)** generates a _sitemap.xml_ for your Astro project during build.
